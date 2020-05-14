@@ -13,6 +13,9 @@ Pros
 - Big text fields
 - Small text fields
 - Number-only text fields
+- Choose only fields
+- Quiz mode
+- (TODO) Math font
 - Image attachments
 - Additional helping information
 - Chat between technical support and users
