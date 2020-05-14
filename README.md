@@ -26,7 +26,7 @@ Pros
 - Easy question implementation
 - Easy anwser accessibility
 - No PC/AI checks , anwsers should be reviewed by examinators.
-
+- and best of all , uses modern stuff... ( not nasa ui with thousands of fu\*king buttons that do all kinds of s\*it. )
 
 ![img](https://i.imgur.com/KK1MNaI.png)
 ![img](https://i.imgur.com/fEZAWFb.png)
