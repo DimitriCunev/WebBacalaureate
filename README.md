@@ -29,4 +29,4 @@ Pros
 - and best of all , uses modern stuff... ( not nasa ui with thousands of fu\*king buttons that do all kinds of s\*it. )
 
 ![img](https://i.imgur.com/KK1MNaI.png)
-![img](https://i.imgur.com/fEZAWFb.png)
+![img](https://i.imgur.com/zbSAlvW.png)
