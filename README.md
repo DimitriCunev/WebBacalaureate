@@ -2,6 +2,8 @@
 A solution.
 
 
+CODING TIMELAPSE : https://www.youtube.com/watch?v=fwjEYgMwr_c
+
 ## Opting to make a high-security examination site, which can easily be used to test students in Moldova.
 
 
