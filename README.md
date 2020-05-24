@@ -1,6 +1,6 @@
 # WebBacalaureate
 A solution.
-
+Unfinished/Abandoned ( won't be implemented and has flaws )
 
 CODING TIMELAPSE : https://www.youtube.com/watch?v=fwjEYgMwr_c
 
