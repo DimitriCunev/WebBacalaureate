@@ -13,22 +13,22 @@ Pros
 - Big text fields
 - Small text fields
 - Number-only text fields
-- Choose only fields
-- Quiz mode
+- (TODO) Choose only fields
+- (TODO) Quiz mode
 - (TODO) Math font
 - Image attachments
-- Additional helping information
-- Chat between technical support and users
+- (TODO) Additional helping information
+- (TODO) Chat between technical support and users
 - File attachments from own computer
-- Secure information sending
-- Hashed user data
+- (TODO) Secure information sending
+- (TODO) Hashed user data
 - Ultra simplistic , boomer-adaptated ui
 - Secure login
-- Optimised for most of pcs
+- (TODO) Optimised for most of pcs
 - No need for downloading stuff
-- Easy question implementation
-- Easy anwser accessibility
-- No PC/AI checks , anwsers should be reviewed by examinators.
+- (TODO) Easy question implementation
+- (TODO) Easy anwser accessibility
+- (TODO) No PC/AI checks , anwsers should be reviewed by examinators.
 - and best of all , uses modern stuff... ( not nasa ui with thousands of fu\*king buttons that do all kinds of s\*it. )
 
 ![img](https://i.imgur.com/KK1MNaI.png)
